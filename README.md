@@ -5,3 +5,5 @@ IG News is an app that users can subscribe to have access to posts about react f
 - Create app using React, TypeScript, SASS and Next JS.
 - Use Stripe API for payments and FaunaDB for database.
 - Create CMS with Prismic CMS.
+
+You can find the deployed app at: (link)
