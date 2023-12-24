@@ -7,7 +7,7 @@
  <a href="#deploy">Deploy</a> 
 </p>
 <p align="center">
-<b>IG News is an app that users can subscribe to have access to posts about react features.</b>
+<b>IG News is an app that users can subscribe to have access to posts about react new features.</b>
 </p>
 
 <h2 id="tech">Technologies 💻</h2>
