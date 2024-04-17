@@ -20,4 +20,4 @@
 
 <h2 id="deploy">Deploy 🌐</h2>
 
-You can find the deployed app at: (link)
+You can find the deployed app at: (NOT-FINESHED)
